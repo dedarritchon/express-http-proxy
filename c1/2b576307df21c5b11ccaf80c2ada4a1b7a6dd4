@@ -1,0 +1,21 @@
+app/steps/sendProxyRequest.js
+  s_884970237d0701::t_8c77c0079730a8 7-17,67
+test/middlewareCompatibility.js
+  s_884970237d0701::t_d1053e0a58997b 88-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c12b576307df21c5b11ccaf80c2ada4a1b7a6dd4",
+  "prompts": {},
+  "sessions": {
+    "s_884970237d0701": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7d5c2975-5ed1-4db2-a61d-4ce4baf56d0a",
+        "model": "unknown"
+      },
+      "human_author": "Daniel Darritchon <daniel.darritchon@front.com>"
+    }
+  }
+}
